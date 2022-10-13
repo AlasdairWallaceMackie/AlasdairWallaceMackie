@@ -3,37 +3,38 @@
 https://github.com/CurryFriedRice/
 
 https://github.com/Ileriayo/markdown-badges -->
-<link href="./src/style.css" rel="stylesheet">
 
 <!-- <h1>PIXEL ART HERE</h1> -->
 
-<h1>Tech Skills</h1>
+<h1 align="center">Languages and Frameworks</h1>
 
-<div class="tech-skills">
-    <img src="./img/icons/python.svg"/>
-    <img src="./img/icons/django.svg"/>
-    <img src="./img/icons/react.svg"/>
-    <img src="./img/icons/js.svg"/>
-    <img src="./img/icons/typescript.svg"/>
-    <img src="./img/icons/html.svg"/>
-    <img src="./img/icons/css.svg"/>
-    <img src="./img/icons/bootstrap.svg"/>
-    <img src="./img/icons/jquery.svg"/>
-    <img src="./img/icons/docker.svg"/>
-    <img src="./img/icons/graphql.svg"/>
-    <img src="./img/icons/selenium.svg"/>
-    <img src="./img/icons/aws.svg" class="aws-logo"/>
+<div align="center">
+    <div align="center">
+        <img src="./img/icons/python.svg" height="70px"/>
+        <img src="./img/icons/django.svg" height="70px"/>
+        <img src="./img/icons/react.svg" height="70px"/>
+        <img src="./img/icons/js.svg" height="70px"/>
+        <img src="./img/icons/typescript.svg" height="70px"/>
+        <img src="./img/icons/html.svg" height="70px"/>
+        <img src="./img/icons/css.svg" height="70px"/>
+    </div>
+    <img src="./img/icons/bootstrap.svg" height="70px"/>
+    <img src="./img/icons/jquery.svg" height="70px"/>
+    <img src="./img/icons/docker.svg" height="70px"/>
+    <img src="./img/icons/graphql.svg" height="70px"/>
+    <img src="./img/icons/selenium.svg" height="70px"/>
+    <img src="./img/icons/aws.png" height="70px"/>
 </div>
 
 <br>
+<br>
 
-<h1>Software Projects</h1>
+<h1 align="center">Software Projects</h1>
 
-<div class="software-project">
 
 <table><tbody>
     <tr>
-        <td class="first-cell">
+        <td>
             <h2>CenterPoint 📒 | <a href="http://www.alasdairwallacemackie.com/centerpoint/">LIVE SITE</a></h2>
             <img src="./img/screenshots/centerpoint.png">
         </td>
@@ -50,12 +51,10 @@ https://github.com/Ileriayo/markdown-badges -->
 </td>
 </tr>
 </tbody></table>
-</div>
 
-<div class="software-project">
 <table><tbody>
     <tr>
-        <td class="first-cell">
+        <td>
             <h2>Mars Rover App 🔴🌌 | <a href="https://github.com/AlasdairWallaceMackie/mars-rover-photos">GITHUB</a></h2>
             <img src="./img/screenshots/mars_rover_app.gif">
         </td>
@@ -69,12 +68,10 @@ https://github.com/Ileriayo/markdown-badges -->
 </td>
 </tr>
 </tbody></table>
-</div>
 
-<div class="software-project">
 <table><tbody>
     <tr>
-        <td class="first-cell">
+        <td>
             <h2>The Music Database 🎵 | <a href="https://github.com/AlasdairWallaceMackie/music-database">GITHUB</a></h2>
             <img src="./img/screenshots/music_database.png">
         </td>
@@ -88,4 +85,3 @@ https://github.com/Ileriayo/markdown-badges -->
 </td>
 </tr>
 </tbody></table>
-</div>
