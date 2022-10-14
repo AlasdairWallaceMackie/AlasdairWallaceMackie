@@ -4,26 +4,29 @@ https://github.com/CurryFriedRice/
 
 https://github.com/Ileriayo/markdown-badges -->
 
-<!-- <h1>PIXEL ART HERE</h1> -->
+<div align="center"><img src="./img/pixel_art_header.png"></div>
+
+<br>
 
 <h1 align="center">Languages and Frameworks</h1>
 
 <div align="center">
     <div align="center">
-        <img src="./img/icons/python.svg" height="70px"/>
-        <img src="./img/icons/django.svg" height="70px"/>
-        <img src="./img/icons/react.svg" height="70px"/>
-        <img src="./img/icons/js.svg" height="70px"/>
-        <img src="./img/icons/typescript.svg" height="70px"/>
-        <img src="./img/icons/html.svg" height="70px"/>
-        <img src="./img/icons/css.svg" height="70px"/>
+        <img src="./img/icons/python.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./img/icons/django.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./img/icons/react.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./img/icons/js.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./img/icons/typescript.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./img/icons/html.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./img/icons/css.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
-    <img src="./img/icons/bootstrap.svg" height="70px"/>
-    <img src="./img/icons/jquery.svg" height="70px"/>
-    <img src="./img/icons/docker.svg" height="70px"/>
-    <img src="./img/icons/graphql.svg" height="70px"/>
-    <img src="./img/icons/selenium.svg" height="70px"/>
-    <img src="./img/icons/aws.png" height="70px"/>
+    <br>
+    <img src="./img/icons/bootstrap.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./img/icons/jquery.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./img/icons/docker.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./img/icons/graphql.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./img/icons/selenium.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./img/icons/aws.png" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
@@ -32,14 +35,15 @@ https://github.com/Ileriayo/markdown-badges -->
 <h1 align="center">Software Projects</h1>
 
 
-<table><tbody>
+<table>
     <tr>
         <td>
-            <h2>CenterPoint 📒 | <a href="http://www.alasdairwallacemackie.com/centerpoint/">LIVE SITE</a></h2>
-            <img src="./img/screenshots/centerpoint.png">
+            <div align="center"><h2>CenterPoint 📒 <hr> <a href="http://www.alasdairwallacemackie.com/centerpoint/">LIVE SITE</a></h2></div>
+            <br>
+            <img src="./img/screenshots/centerpoint.png" width="600px">
         </td>
         <td>
-            <i>A browser-based IT trouble ticket tracking application for small businesses.</i>
+            <i><h2>A browser-based IT trouble ticket tracking application for small businesses.</h2></i>
 
 <ul>
     <li>Designed application with distinct functionalities and features to optimize business process support for multiple end-user roles including technicians and managers.</li>
@@ -50,16 +54,19 @@ https://github.com/Ileriayo/markdown-badges -->
 </ul>
 </td>
 </tr>
-</tbody></table>
+</table>
 
-<table><tbody>
+<hr>
+
+<table>
     <tr>
         <td>
-            <h2>Mars Rover App 🔴🌌 | <a href="https://github.com/AlasdairWallaceMackie/mars-rover-photos">GITHUB</a></h2>
-            <img src="./img/screenshots/mars_rover_app.gif">
+            <h2 align="center">Mars Rover App 🔴🌌 <hr> <a href="https://github.com/AlasdairWallaceMackie/mars-rover-photos">GITHUB</a></h2>
+            <br>
+            <img src="./img/screenshots/mars_rover_app.gif" width="600px">
         </td>
         <td>
-            <i>An interactive web app utilizing NASA’s API for viewing info on past and present Mars rovers and the photographs they’ve taken.</i>
+            <i><h2>An interactive web app utilizing NASA’s API for viewing info on past and present Mars rovers and the photographs they’ve taken.</h2></i>
 
 <ul>
     <li>Designed a single-page React application implementing React Router for lightning fast loading times and a smooth user experience.</li>
@@ -67,16 +74,19 @@ https://github.com/Ileriayo/markdown-badges -->
 </ul>
 </td>
 </tr>
-</tbody></table>
+</table>
 
-<table><tbody>
+<hr>
+
+<table>
     <tr>
         <td>
-            <h2>The Music Database 🎵 | <a href="https://github.com/AlasdairWallaceMackie/music-database">GITHUB</a></h2>
-            <img src="./img/screenshots/music_database.png">
+            <h2 align="center">The Music Database 🎵 <hr> <a href="https://github.com/AlasdairWallaceMackie/music-database">GITHUB</a></h2>
+            <br>
+            <img src="./img/screenshots/music_database.png" width="600px">
         </td>
         <td>
-            <i>A user-aggregated database application for cataloging musical artists and associated releases.</i>
+            <i><h2>A user-aggregated database application for cataloging musical artists and associated releases.</h2></i>
 
 <ul>
     <li>Developed custom interactive components using JavaScript for an intuitive and engaging user experience.</li>
@@ -84,4 +94,4 @@ https://github.com/Ileriayo/markdown-badges -->
 </ul>
 </td>
 </tr>
-</tbody></table>
+</table>
