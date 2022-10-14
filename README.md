@@ -40,7 +40,7 @@ https://github.com/Ileriayo/markdown-badges -->
         <td>
             <div align="center"><h2>CenterPoint 📒 <hr> <a href="http://www.alasdairwallacemackie.com/centerpoint/">LIVE SITE</a></h2></div>
             <br>
-            <img src="./img/screenshots/centerpoint.png" width="600px">
+            <img src="./img/screenshots/centerpoint.png" width="1000px">
         </td>
         <td>
             <i><h2>A browser-based IT trouble ticket tracking application for small businesses.</h2></i>
@@ -56,14 +56,12 @@ https://github.com/Ileriayo/markdown-badges -->
 </tr>
 </table>
 
-<hr>
-
 <table>
     <tr>
         <td>
             <h2 align="center">Mars Rover App 🔴🌌 <hr> <a href="https://github.com/AlasdairWallaceMackie/mars-rover-photos">GITHUB</a></h2>
             <br>
-            <img src="./img/screenshots/mars_rover_app.gif" width="600px">
+            <img src="./img/screenshots/mars_rover_app.gif" width="429px">
         </td>
         <td>
             <i><h2>An interactive web app utilizing NASA’s API for viewing info on past and present Mars rovers and the photographs they’ve taken.</h2></i>
@@ -76,14 +74,12 @@ https://github.com/Ileriayo/markdown-badges -->
 </tr>
 </table>
 
-<hr>
-
 <table>
     <tr>
         <td>
             <h2 align="center">The Music Database 🎵 <hr> <a href="https://github.com/AlasdairWallaceMackie/music-database">GITHUB</a></h2>
             <br>
-            <img src="./img/screenshots/music_database.png" width="600px">
+            <img src="./img/screenshots/music_database.png" width="852px">
         </td>
         <td>
             <i><h2>A user-aggregated database application for cataloging musical artists and associated releases.</h2></i>
