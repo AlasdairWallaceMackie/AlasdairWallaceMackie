@@ -38,8 +38,7 @@ https://github.com/Ileriayo/markdown-badges -->
 <table>
     <tr>
         <td>
-            <div align="center"><h2>CenterPoint 📒 <hr> <a href="http://www.alasdairwallacemackie.com/centerpoint/">LIVE SITE</a></h2></div>
-            <br>
+            <div align="center"><h2>CenterPoint 📒 &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.alasdairwallacemackie.com/centerpoint/">LIVE SITE</a></h2></div>
             <img src="./img/screenshots/centerpoint.png" width="1000px">
         </td>
         <td>
@@ -59,8 +58,7 @@ https://github.com/Ileriayo/markdown-badges -->
 <table>
     <tr>
         <td>
-            <h2 align="center">Mars Rover App 🔴🌌 <hr> <a href="https://github.com/AlasdairWallaceMackie/mars-rover-photos">GITHUB</a></h2>
-            <br>
+            <h2 align="center">Mars Rover App 🔴🌌 &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://github.com/AlasdairWallaceMackie/mars-rover-photos">GITHUB</a></h2>
             <img src="./img/screenshots/mars_rover_app.gif" width="429px">
         </td>
         <td>
@@ -77,8 +75,7 @@ https://github.com/Ileriayo/markdown-badges -->
 <table>
     <tr>
         <td>
-            <h2 align="center">The Music Database 🎵 <hr> <a href="https://github.com/AlasdairWallaceMackie/music-database">GITHUB</a></h2>
-            <br>
+            <h2 align="center">The Music Database 🎵 &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://github.com/AlasdairWallaceMackie/music-database">GITHUB</a></h2>
             <img src="./img/screenshots/music_database.png" width="852px">
         </td>
         <td>
