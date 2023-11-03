@@ -1,30 +1,25 @@
-<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme
-
-https://github.com/CurryFriedRice/
-
-https://github.com/Ileriayo/markdown-badges -->
-
 <div align="center"><img src="./img/pixel_art_header.png"></div>
 
 <br>
 
-<h1 align="center">Languages and Frameworks</h1>
+<h1 align="center">Languages and Technologies</h1>
 
 <div align="center">
     <div align="center">
         <img src="./img/icons/python.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="./img/icons/django.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./img/icons/ruby.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./img/icons/react.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="./img/icons/js.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./img/icons/django.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./img/icons/typescript.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./img/icons/js.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./img/icons/html.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./img/icons/css.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
     <br>
+    <img src="./img/icons/graphql.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./img/icons/docker.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./img/icons/bootstrap.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./img/icons/jquery.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./img/icons/docker.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./img/icons/graphql.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./img/icons/selenium.svg" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./img/icons/aws.png" height="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
